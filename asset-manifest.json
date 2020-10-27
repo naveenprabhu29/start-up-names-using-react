@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/naveenprabhu29/start-up-names-using-react/static/css/main.31a845d1.chunk.css",
-    "main.js": "/naveenprabhu29/start-up-names-using-react/static/js/main.bbfb0560.chunk.js",
-    "main.js.map": "/naveenprabhu29/start-up-names-using-react/static/js/main.bbfb0560.chunk.js.map",
-    "runtime-main.js": "/naveenprabhu29/start-up-names-using-react/static/js/runtime-main.d3c9af7a.js",
-    "runtime-main.js.map": "/naveenprabhu29/start-up-names-using-react/static/js/runtime-main.d3c9af7a.js.map",
-    "static/js/2.9d2c3c81.chunk.js": "/naveenprabhu29/start-up-names-using-react/static/js/2.9d2c3c81.chunk.js",
-    "static/js/2.9d2c3c81.chunk.js.map": "/naveenprabhu29/start-up-names-using-react/static/js/2.9d2c3c81.chunk.js.map",
-    "index.html": "/naveenprabhu29/start-up-names-using-react/index.html",
-    "precache-manifest.0563d2304ae4a00ae6e679edb276b30d.js": "/naveenprabhu29/start-up-names-using-react/precache-manifest.0563d2304ae4a00ae6e679edb276b30d.js",
-    "service-worker.js": "/naveenprabhu29/start-up-names-using-react/service-worker.js",
-    "static/css/main.31a845d1.chunk.css.map": "/naveenprabhu29/start-up-names-using-react/static/css/main.31a845d1.chunk.css.map",
-    "static/js/2.9d2c3c81.chunk.js.LICENSE.txt": "/naveenprabhu29/start-up-names-using-react/static/js/2.9d2c3c81.chunk.js.LICENSE.txt"
+    "main.css": "/start-up-names-using-react/static/css/main.31a845d1.chunk.css",
+    "main.js": "/start-up-names-using-react/static/js/main.490488b3.chunk.js",
+    "main.js.map": "/start-up-names-using-react/static/js/main.490488b3.chunk.js.map",
+    "runtime-main.js": "/start-up-names-using-react/static/js/runtime-main.657a893b.js",
+    "runtime-main.js.map": "/start-up-names-using-react/static/js/runtime-main.657a893b.js.map",
+    "static/js/2.9d2c3c81.chunk.js": "/start-up-names-using-react/static/js/2.9d2c3c81.chunk.js",
+    "static/js/2.9d2c3c81.chunk.js.map": "/start-up-names-using-react/static/js/2.9d2c3c81.chunk.js.map",
+    "index.html": "/start-up-names-using-react/index.html",
+    "precache-manifest.1b35e08c54ab3d5faa835a1ceba2a980.js": "/start-up-names-using-react/precache-manifest.1b35e08c54ab3d5faa835a1ceba2a980.js",
+    "service-worker.js": "/start-up-names-using-react/service-worker.js",
+    "static/css/main.31a845d1.chunk.css.map": "/start-up-names-using-react/static/css/main.31a845d1.chunk.css.map",
+    "static/js/2.9d2c3c81.chunk.js.LICENSE.txt": "/start-up-names-using-react/static/js/2.9d2c3c81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3c9af7a.js",
+    "static/js/runtime-main.657a893b.js",
     "static/js/2.9d2c3c81.chunk.js",
     "static/css/main.31a845d1.chunk.css",
-    "static/js/main.bbfb0560.chunk.js"
+    "static/js/main.490488b3.chunk.js"
   ]
 }
